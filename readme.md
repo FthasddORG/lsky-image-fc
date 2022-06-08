@@ -1,21 +1,8 @@
-# start-typecho 帮助文档
+# [start-lsky-pro](https://github.com/FthasddORG/lsky-image-fc) 帮助文档
 
-<p align="center" class="flex justify-center">
-    <a href="https://www.serverless-devs.com" class="ml-1">
-    <img src="http://editor.devsapp.cn/icon?package=start-typecho&type=packageType">
-  </a>
-  <a href="http://www.devsapp.cn/details.html?name=start-typecho" class="ml-1">
-    <img src="http://editor.devsapp.cn/icon?package=start-typecho&type=packageVersion">
-  </a>
-  <a href="http://www.devsapp.cn/details.html?name=start-typecho" class="ml-1">
-    <img src="http://editor.devsapp.cn/icon?package=start-typecho&type=packageDownload">
-  </a>
-</p>
 
 <description>
-
-Typecho是由type和echo两个词合成的，来自于开发团队的头脑风暴。Typecho基于PHP5开发，支持多种数据库，是一款内核强健﹑扩展方便﹑体验友好﹑运行流畅的轻量级开源博客程序
-
+lsky-pro 是一个图床程序。
 </description>
 
 <table>
@@ -55,28 +42,3 @@ Typecho是由type和echo两个词合成的，来自于开发团队的头脑风�
 
 </deploy>
 
-<appdetail id="flushContent">
-
-# 应用详情
-
-
-本应用仅作为学习和参考使用，您可以基于本项目进行二次开发和完善，实现自己的业务逻辑
-
-
-</appdetail>
-
-<devgroup>
-
-## 开发者社区
-
-您如果有关于错误的反馈或者未来的期待，您可以在 [Serverless Devs repo Issues](https://github.com/serverless-devs/serverless-devs/issues) 中进行反馈和交流。如果您想要加入我们的讨论组或者了解 FC 组件的最新动态，您可以通过以下渠道进行：
-
-<p align="center">
-
-| <img src="https://serverless-article-picture.oss-cn-hangzhou.aliyuncs.com/1635407298906_20211028074819117230.png" width="130px" > | <img src="https://serverless-article-picture.oss-cn-hangzhou.aliyuncs.com/1635407044136_20211028074404326599.png" width="130px" > | <img src="https://serverless-article-picture.oss-cn-hangzhou.aliyuncs.com/1635407252200_20211028074732517533.png" width="130px" > |
-|--- | --- | --- |
-| <center>微信公众号：`serverless`</center> | <center>微信小助手：`xiaojiangwh`</center> | <center>钉钉交流群：`33947367`</center> | 
-
-</p>
-
-</devgroup>
