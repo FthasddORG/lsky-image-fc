@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set +e
-
+echo "Installing PHP 8.1"
+curl -sSL https://packages.sury.org/php/README.txt | sudo bash -x
+apt update
+apt install php8.1 php8.1-fpm php8.1-mysql php8.1-imagick php8.1-gd php8.1-mbstring
 mkdir -p /tmp/log/nginx/
 mkdir -p /tmp/var/nginx/
 mkdir -p /tmp/var/sessions/
