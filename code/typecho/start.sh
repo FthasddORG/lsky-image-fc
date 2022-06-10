@@ -11,7 +11,7 @@ echo "start nginx"
 nohup nginx -c /etc/nginx/nginx.conf &
 
 echo "start php-fpm"
-php-fpm -c /usr/local/etc/php/php.ini-production -y /usr/local/etc/php-fpm.conf
+php-fpm8.1  -y /usr/local/etc/php-fpm.conf
 
 while true
 do
