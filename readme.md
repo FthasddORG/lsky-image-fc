@@ -32,8 +32,8 @@ lsky-pro 是一个图床程序。
 
 - 通过 [Serverless Devs Cli](https://www.serverless-devs.com/serverless-devs/install) 进行部署：
     - [安装 Serverless Devs Cli 开发者工具](https://www.serverless-devs.com/serverless-devs/install) ，并进行[授权信息配置](https://www.serverless-devs.com/fc/config) ；
-    - 初始化项目：`s init start-typecho -d start-typecho`   
-    - 进入项目，并进行项目部署：`cd start-typecho && s deploy -y`
+    - 初始化项目：`s init`   
+    - 进入项目，并进行项目部署：`s deploy -y`
 
 </deploy>
 
