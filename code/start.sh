@@ -16,7 +16,7 @@ apt update
 apt install --no-install-recommends php8.1 php8.1-fpm php8.1-mysql php8.1-imagick php8.1-gd php8.1-mbstring -y
 
 echo "start php-fpm"
-php-fpm8.1 -c /code/php.ini -y /code/php-fpm.conf
+php-fpm8.1  -y /code/php-fpm.conf
 
 echo "start nginx"
 nginx -c /code/nginx.conf
