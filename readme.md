@@ -1,4 +1,4 @@
-# [start-lsky-pro](https://github.com/FthasddORG/lsky-image-fc) 帮助文档
+# [lsky-pro-fc](https://github.com/FthasddORG/lsky-image-fc) 帮助文档
 
 
 <description>
